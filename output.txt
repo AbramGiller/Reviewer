@@ -1,0 +1,236 @@
+Summary:
+
+Strengths:
+Strengths:
+
+-Provides a clear overview of advances in genetics technology
+-Explains the components of genetic screens
+-Discusses the benefits of pooled screens
+-Encourages careful consideration of the steps that follow a screening project
+
+Weaknesses:
+
+-Does not provide specific examples of techniques and analyses
+-Does not provide a detailed explanation of how pooled screens work
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The article does not provide any specific examples of how to optimize an effective model.
+
+Summary:
+
+Strengths:
+Strengths:
+
+-Provides a comprehensive overview of the practical considerations that come with pooled screens
+-Outlines the importance of optimizing various aspects of the screen, such as passaging, infection efficiency, and representation of the library
+-Discusses the need to invest time upfront to confirm the technical suitability of the model for screening
+
+Weaknesses:
+
+-Does not provide any concrete examples of how to optimize the various aspects of the pooled screen
+-Does not provide any case studies or evidence to back up the claims made in the paper
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any concrete examples or further details on the suggested alternative approach of selecting infected cells using fluorescent proteins and flow cytometry.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any specific examples or case studies to illustrate the potential solutions discussed.
+
+Summary:
+In summary, this paper explains the two types of genetic screens and how to use flow cytometry technology to sort cells for successful screening.
+Strengths:
+Strengths of this paper include the detailed description of the two types of genetic screens and how to optimize flow cytometry parameters.
+Weaknesses:
+Weaknesses include the lack of discussion on other possible methods of sorting cells, such as imaging.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any data to support its claims, leaving readers to rely solely on the authors’ assertions.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any detailed examples of how Cas9 is used in practice.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any concrete examples of how these approaches have been applied in practice, nor does it provide any recommendations for how to go about designing a sgRNA library.
+
+Summary:
+
+Strengths:
+Strengths: 
+-Explains the importance of design libraries for general use without prior knowledge of the cell type
+-Discusses the importance of using an updated annotation of the target
+-Provides information on selecting sgRNAs wisely and avoiding certain sites
+-Explains the use of alternative splicing information and computational predictions to bias towards success
+-Discusses the relationship between on-target activity and off-target effects
+
+Weaknesses:
+-Does not provide any specific examples of how to design libraries or select sgRNAs
+-Does not discuss any potential drawbacks of using alternative splicing information or computational predictions
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths:
+
+- Provides information on how to design higher-activity sgRNAs
+- Explains the advantages of using the CAGE technique to design sgRNAs
+- Mentions websites that can assist in sgRNA design
+
+Weaknesses:
+
+- Does not provide any specific examples of how to design sgRNAs
+- Does not discuss potential drawbacks of using the CAGE technique for sgRNA design
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any detailed information on the types of cell types that should be used for the analysis or how to identify them.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any information on the potential risks associated with outsourcing the responsibility for thinking.
+
+Summary:
+
+Strengths:
+Comparing the primary to the secondary screen revealed a clear relationship between the statistical strength of the hit in the primary screen and the validation rate in the secondary screen.
+
+, Strengths:
+The author suggests a strategy that has proven successful in optimizing a CRISPR-based gene-editing screen.
+Weaknesses:
+Weaknesses:
+The author does not provide any evidence of the efficacy of the suggested strategy.
+
+Summary:
+
+Strengths:
+This scientific paper excerpt describes how CRISPR technology has both strengths and weaknesses., Strengths:
+CRISPR technology is often used to create loss-of-function alleles.
+
+
+Weaknesses:
+Weaknesses:
+CRISPR technology can sometimes lead to gain-of-function mutations.
+
+Summary:
+
+Strengths:
+Strengths: 
+- Discusses the importance of confirming on-target activity for CRISPR-based gene editing
+- Emphasizes the need for authors, reviewers, and editors to ensure that the screening data is appropriately documented and made available
+
+Weaknesses: 
+- Does not provide specific examples of how to document and make the data available
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths of this paper include its emphasis on providing raw data to enable mining of connections between genes and model systems, as well as its suggestion of GenomeCRISPR as a useful resource.
+Weaknesses:
+A weakness of this paper is its lack of discussion of how to execute a genetic screen in larger genomes with exponentially increasing gene-gene combinations.
+
+Summary:
+
+Strengths:
+Strengths of the paper include its detailed description of how to use CRISPR technology for large-scale screens, as well as its discussion of the challenges of using CRISPR technology and how to overcome them.
+Weaknesses:
+Weaknesses of the paper include its lack of discussion about the potential ethical implications of using CRISPR technology for large-scale screens.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The papers cited in this excerpt do not provide a comprehensive overview of the potential applications of CRISPR-Cas systems.
+
+Summary:
+
+Strengths:
+Strengths of this study include the comprehensive overview of the CRISPR/Cas9 technologies and their applications to antiviral drug target identification.
+Weaknesses:
+Weaknesses of this study include the lack of discussion of the potential implications of using these technologies, such as ethical considerations.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide an in-depth analysis of the potential implications of CRISPR-Cas9 technology.
+
+Summary:
+
+Strengths:
+Strengths:
+Weaknesses:
+Weaknesses: The paper does not provide any new insights or conclusions based on the literature review.
+
+Summary:
+
+Strengths:
+Strengths:
+
+- Systematic review of essential and nonessential genes for benchmarking screen performance in genome-wide CRISPR/SpCas9 knockout screens
+
+- Numerous CRISPRa approaches compared
+
+- Strategies for precision modulation of gene expression by epigenome editing examined
+
+- Contributions from the Genetic Perturbation Platform (GPP) at the Broad Institute
+
+- Insights from experts at the Broad Institute, Microsoft Research, Washington University, and Merck
+
+Weaknesses:
+
+- Limited scope of study to benchmarking screen performance and epigenome editing
+Weaknesses:
+
+
+Summary:
+
+Strengths:
+Strengths:
+
+Weaknesses:
+It also includes supplementary information and active links in the online PDF.
+
+Weaknesses:
+
+

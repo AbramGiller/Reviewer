@@ -14,7 +14,9 @@ def main():
 
     # Iterate through the chunks and send them to GPT-3 for review
     for chunk in preprocessed_chunks:
+        print("Sending chunk to GPT-3 for review...")
         review = review_paper_gpt3(chunk)
+        print("Review complete!")
 
         # Extract key points from the GPT-3 review
         key_points = extract_key_points(review)

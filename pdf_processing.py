@@ -25,7 +25,7 @@ def extract_text_from_pdf(pdf_path):
 
     return text
 
-def preprocess_text(text, max_tokens=7096):
+def preprocess_text(text, max_tokens=3000):
     text = re.sub(r'\n', ' ', text)  # Remove newlines
     text = re.sub(r'\s+', ' ', text)  # Remove extra whitespace
     
